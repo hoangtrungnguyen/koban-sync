@@ -1,0 +1,8 @@
+.venv/
+config.json
+session.json
+images/
+*.csv
+__pycache__/
+.chats_cache.json
+.DS_Store

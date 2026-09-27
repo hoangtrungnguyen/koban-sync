@@ -1,0 +1,3 @@
+zlapi>=1.0.3
+requests>=2.31
+Pillow>=10.0        # optional: only used to read image width/height
